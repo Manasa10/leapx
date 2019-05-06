@@ -1,0 +1,5 @@
+first name|last name| email | contact | city  
+  manasa  |  d  |  mdg  |  90909  |  blore  
+  bnm  |  bnm  |  bnm  |  98989  |  blore  
+  cvb  |  cvb  |  cvb  |  75585  |  blore  
+ mnb | gh | mnb | 776 | blore |
