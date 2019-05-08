@@ -1,0 +1,10 @@
+IS1501 | Cryptography | Cengage | Bernard.H | 20 | 6 | $$$$$$$$$$$$$$$
+IS1502 | FileStructures | Pearson | Michael.J | 18 | 6 | $$$$$$$$$$$$$
+CS1503 | SoftwareTesting | Auerbach | C.Paul | 12 | 6 | $$$$$$$$$$$$$$
+CS1504 | OperatingSystem | McGrawHill | Abraham.SH | 25 | 7 | $$$$$$$$
+IS1505 | DataMining | Kaufmann | Pang-Ning | 14 | 7 | $$$$$$$$$$$$$$$$
+CS1506 | SystemSoftware | Pearson | D.Manjula | 21 | 8 | $$$$$$$$$$$$$
+IS1507 | OperationResearch | S.Chand | D.S.Hira | 10 | 6 | $$$$$$$$$$$
+CS1508 | DataStructures | UniversitiesPress | Sartaj.Sahni | 11 | 4 | 
+IS1509 | DataCommunication | McGrawHill | Behrouz.A | 8 | 4 | $$$$$$$$
+IS1510 | ComputerNetworks | Pearson | James.F.K | 5 | 4 | $$$$$$$$$$$$
