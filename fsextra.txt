@@ -1,0 +1,13 @@
+ <%@ page import= "javax.swing.JOptionPane" %>
+
+delrec1:
+JOptionPane.showMessageDialog(null, pdel+" has been deleted.");
+
+addrec1:
+ if(pos==fixedpos)
+ 		  JOptionPane.showMessageDialog(null, pname+" has been added at location "+pos);
+ 	   else
+ 	  JOptionPane.showMessageDialog(null, pname+" has been added at location "+pos+" after overflow from "+fixedpos);
+
+editrec1:
+JOptionPane.showMessageDialog(null, pedit+" has been edited.");
